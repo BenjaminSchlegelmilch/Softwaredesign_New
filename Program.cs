@@ -1,86 +1,57 @@
 ﻿using System;
 
-namespace L02
+namespace L04
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double d = 15;
-            if (args[0] == "w")
-            {
-                getCubeInfo(d);
+            Console.WriteLine("Enter Value from 0 to 1023");
+            string numberString = Console.ReadLine();
+            Console.WriteLine("Enter Number Base");
+            string fromBaseString = Console.ReadLine();
+            Console.WriteLine ("Enter convert Number Base");
+            string toBaseString = Console.ReadLine();
+            int fromBase = Int32.Parse(fromBaseString);
+            int toBase = Int32.Parse(toBaseString);
+            int number = Int32.Parse(numberString);
+
+            if (0 <= number && number <= 1023 && 2<= fromBase && fromBase <=10){
+                ConvertToBaseFromDecimal(number, fromBase);
+                ConvertToDecimalFromBase(number, fromBase);
             }
-            if (args[0] == "k")
-            {
-                getGlobeInfo(d);
+            if (2 <= toBase && toBase <= 10){
+                ConvertNumberToBaseFromBase(number, fromBase, toBase);
             }
-            if (args[0] == "o")
-            {
-                getOctahedronInfo(d);
-            }
-            else if (args[0] == "a,b,c,d,e,f,h,i,j,l,m,n,p,q,r,s,t,u,v,x,y,z,")
-            {
-            Console.WriteLine("Wrong input");
+            else {
+            Console.WriteLine("Value must be between 0 and 1023 and base numbers must be between 2 and 10");
             }
         }
-
-            public static double getCubeSurface (double edgeLength)
-            {
-                d = edgeLength;
-                double cubeSurface = d*d*6;
-                return cubeSurface;
-            }
-
-            public static double getCubeVolume(double edgeLength)
-            {
-                d = edgeLength;
-                double cubeVolume = d*d*d;
-                return cubeVolume;
-            }
-
-            public static double getGlobeSurface(double diameter)
-            {
-                d = diameter;
-                double globeSurface = Math.PI*d*d;
-                return globeSurface;
-            }
-
-            public static double getGlobeVolume(double diameter)
-            {
-                d = diameter;
-                double globeVolume = Math.PI*(d*d*d)/6;
-                return globeVolume;
-            }
-
-            public static double getOctahedronSurface(double edgeLength)
-            {
-                d = edgeLength;
-                double octahedronSurface = 2*(Math.Sqrt(3))*d*d;
-                return octahedronSurface;
-            }
-
-            public static double getOctahedronVolume(double edgeLength)
-            {
-                d = edgeLength;
-                double octahedronVolume = (Math.Sqrt(2))*(d*d*d)/3;
-                return octahedronVolume;
-            }
-
-            public static void getCubeInfo(double edgeLength){
-                d = edgeLength;
-                Console.WriteLine("Cube: A:" + getCubeSurface(d) + " | V:" + getCubeVolume(d) );
-            }
-
-            public static void getGlobeInfo(double diameter){
-                d = diameter;
-                Console.WriteLine("Globe: A:" + getGlobeSurface(d) + " | V:" + getGlobeVolume(d) );
-            }
-
-            public static void getOctahedronInfo(double edgeLength){
-                d = edgeLength;
-                Console.WriteLine("Octahedron: A:" + getOctahedronSurface(d) + " | V:" + getOctahedronVolume(d) );
-            }
         
+       static void ConvertToBaseFromDecimal(int number, int fromBase) {
+            int lastDigit = (number % 10)*(fromBase^0);
+            int secondlastDigit = ((number % 100 - lastDigit)/10)*(fromBase^1);
+            int thirtlastDigit = ((number % 1000 - lastDigit - secondlastDigit)/100)*(fromBase^2);
+            int fourthlastDigit = ((number % 10000 - lastDigit - secondlastDigit - thirtlastDigit)/1000)*(fromBase^3);
+            int FinalNumber=(lastDigit + secondlastDigit + thirtlastDigit + fourthlastDigit);
+            Console.WriteLine("The Hexal number of " + number +" is " + FinalNumber);
+       }
+  
+        static void ConvertToDecimalFromBase(int number, int fromBase){
+            int firstDezimalNumber = (number % fromBase); 
+            int firstDevisionNumber = (number / fromBase);   
+            int secondDezimalNumber = (firstDevisionNumber % fromBase); 
+            int secondDevisionNumber = (firstDevisionNumber / fromBase);
+            int thirtDezimalNumber = (secondDevisionNumber % fromBase); 
+            int thirtDevisionNumber = (secondDevisionNumber / fromBase);
+            int fourthDezimalNumber = (thirtDevisionNumber % fromBase); 
+            int fourthDevisionNumber = (thirtDevisionNumber  / fromBase);
+            string finalDezimalNumberString = (firstDezimalNumber +""+  secondDezimalNumber +""+ thirtDezimalNumber +""+ fourthDezimalNumber);
+            int finalDezimalNumberInt = Int32.Parse(finalDezimalNumberString);
+            Console.WriteLine("The Dezimal Number of the Hexalnumber " + number + " is " + finalDezimalNumberInt);
+        }
+        static void ConvertNumberToBaseFromBase(int number, int fromBase, int endNumberBaseInt, int FinalNumber){
+            // Habe leider nicht verstanden, wie ich diese Funktion schreiben kann.
+        }
     }
 }
