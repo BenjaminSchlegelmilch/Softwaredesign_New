@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace L05
 {
-    public class Tree<Type>
+        public class Tree<Type>
     {       
         public List<TreeNode<Type>> Nodes = new List<TreeNode<Type>>(); 
         public TreeNode<Type> CreateNode(Type data)
@@ -15,8 +15,13 @@ namespace L05
             Nodes.Add(newNode);
             return newNode;
         }
-    }
 
+        public List<TreeNode<Type>> Find (Type search)
+        {
+            return (Nodes.FindAll(x => x.Data.Equals(search)));
+        }
+    }
+	
     public class TreeNode<Type>
     {
         public Type Data;
