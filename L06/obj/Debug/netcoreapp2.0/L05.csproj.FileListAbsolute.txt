@@ -1,0 +1,10 @@
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\bin\Debug\netcoreapp2.0\L05.deps.json
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\bin\Debug\netcoreapp2.0\L05.runtimeconfig.json
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\bin\Debug\netcoreapp2.0\L05.runtimeconfig.dev.json
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\bin\Debug\netcoreapp2.0\L05.dll
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\bin\Debug\netcoreapp2.0\L05.pdb
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\obj\Debug\netcoreapp2.0\L05.csproj.CoreCompileInputs.cache
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\obj\Debug\netcoreapp2.0\L05.AssemblyInfoInputs.cache
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\obj\Debug\netcoreapp2.0\L05.AssemblyInfo.cs
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\obj\Debug\netcoreapp2.0\L05.dll
+C:\Users\benni\Desktop\Semester 4\Softwaredesign\softwaredesign\L05\obj\Debug\netcoreapp2.0\L05.pdb
