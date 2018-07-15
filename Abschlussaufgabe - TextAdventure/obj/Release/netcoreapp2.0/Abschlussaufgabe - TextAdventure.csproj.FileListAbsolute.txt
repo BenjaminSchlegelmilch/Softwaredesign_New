@@ -1,0 +1,10 @@
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\bin\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.deps.json
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\bin\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.runtimeconfig.json
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\bin\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.runtimeconfig.dev.json
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\bin\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.dll
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\bin\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.pdb
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\obj\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.csproj.CoreCompileInputs.cache
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\obj\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.AssemblyInfoInputs.cache
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\obj\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.AssemblyInfo.cs
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\obj\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.dll
+D:\GitHub\softwaredesign\Abschlussaufgabe - TextAdventure\obj\Release\netcoreapp2.0\Abschlussaufgabe - TextAdventure.pdb
