@@ -1,0 +1,340 @@
+[
+    {
+        "name": "Prof. Dr. Schneider",
+        "courses": [
+            "Mathematik in Medien und Informatik",
+            "MINT-Praktikum",
+            "Physik in Medien und Informatik",
+            "Mathematik und Simulation, Vorlesung",
+            "Mathematik und Simulation, Seminar",
+            "Videotechnik OMB + MKB",
+            "Geometrische und statistische Modellierung, Vorlesung"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T07:00:00",
+                "end": "2019-01-01T19:00:00",
+                "dayName": "Montag"
+            },
+            {
+                "start": "2019-01-01T07:00:00",
+                "end": "2019-01-01T19:00:00",
+                "dayName": "Dienstag"
+            },
+            {
+                "start": "2019-01-01T07:00:00",
+                "end": "2019-01-01T19:00:00",
+                "dayName": "Mittwoch"
+            },
+            {
+                "start": "2019-01-01T07:00:00",
+                "end": "2019-01-01T13:00:00",
+                "dayName": "Donnerstag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Hottong",
+        "courses": [
+            "Videotechnik MIB",
+            "Medientechnik, Praktikum MIB",
+            "Digitale AV-Technik",
+            "Streaming-Anwendungen"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T07:00:00",
+                "end": "2019-01-01T19:00:00",
+                "dayName": "Dienstag"
+            },
+            {
+                "start": "2019-01-01T07:00:00",
+                "end": "2019-01-01T13:00:00",
+                "dayName": "Donnerstag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Herbstreit",
+        "courses": [
+            "Grundlagen der Betriebswirtschaftslehre",
+            "Grundlagen der Unternehmensgruendung"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Fries (M)",
+        "courses": [
+            "Ideenentwicklung",
+            "Grundlagen der Mediengestaltung"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Dittler",
+        "courses": [
+            "E-Learning und Online-Learning",
+            "Medienpsychologie"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Eisenbiegler",
+        "courses": [
+            "Programmieren, Praktikum MIB",
+            "Verteilte Anwendungen, Vorlesung",
+            "Verteilte Anwendungen, Praktikum",
+            "Programmieren, Vorlesung MIB"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Reusch",
+        "courses": [
+            "Audiotechnik",
+            "AV-Produktion, Praktikum",
+            "AV-Produktion"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Mueller, Christoph",
+        "courses": [
+            "Computergrafik",
+            "Computergrafik, Praktikum",
+            "Computergrafik und 3D-Modellierung, Praktikum",
+            "Computergrafik und 3D-Modellierung, Vorlesung",
+            "Datenverarbeitung in der Medienproduktion"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Dufner",
+        "courses": [
+            "Grundlagen Interaktiver Systeme MIB",
+            "Grundlagen Interaktiver Systeme, Praktikum MIB"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Zydorek",
+        "courses": [
+            "Marketing, Vorlesung",
+            "Medien- und Kommunikationswirtschaft",
+            "Medienoekonomie"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Krach",
+        "courses": [
+            "Interface Design",
+            "Responsive Web Design",
+            "User Experience Design, Vorlesung",
+            "User Experience Design, Seminar"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Anders",
+        "courses": [
+            "Kommunikationssysteme",
+            "Webtechnologien"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Waldowski",
+        "courses": [
+            "Grafische Datenverarbeitung",
+            "Grafische Datenverarbeitung, uebung",
+            "Medientechnik, Praktikum OMB + MKB"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Pietsch",
+        "courses": [
+            "E-Business",
+            "Operatives Marketing",
+            "Projektmanagement und Soft Skills"
+            
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dell'Oro-Friedl",
+        "courses": [
+            "Entwicklung Interaktiver Anwendungen 2, Praktikum",
+            "Entwicklung Interaktiver Anwendungen 2, Vorlesung",
+            "Softwaredesign, Praktikum",
+            "Softwaredesign, Seminar"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Taube",
+        "courses": [
+            "Programmieren, Praktikum OMB",
+            "Programmieren, Vorlesung OMB",
+            "Grundlagen Interaktiver Systeme OMB",
+            "Grundlagen Interaktiver Systeme, Praktikum OMB"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Aichele",
+        "courses": [
+            "AV-Produktion",
+            "AV-Produktion, Praktikum"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Ruf",
+        "courses": [
+            "Creative Writing",
+            "Storytelling",
+            "Textkonzeption"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Timmalog",
+        "courses": [
+            "Entwicklung Interaktiver Anwendungen, Praktikum",
+            "Entwicklung Interaktiver Anwendungen, Vorlesung"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Schulten",
+        "courses": [
+            "Strategische Markenfuehrung"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Fries (F)",
+        "courses": [
+            "Grundlagen Medienkonzeption, Seminar",
+            "Medienanalyse, Vorlesung",
+            "Konzeption"
+        ],
+        "occupied": [
+            {
+                "start": "2019-01-01T08:00:00",
+                "end": "2019-01-01T12:00:00",
+                "dayName": "Freitag"
+            }
+        ]
+    }
+]

@@ -1,0 +1,356 @@
+[
+    {
+        "name": "MIB 1",
+        "studentAmount": "40",
+        "semester": "1",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Mathematik in Medien und Informatik"
+            },
+            {
+                "name":"Physik in Medien und Informatik"
+            },
+            {
+                "name":"Videotechnik MIB"
+            },
+            {
+                "name":"Medientechnik, Praktikum MIB"
+            },
+            {
+                "name":"Audiotechnik"
+            },
+            {
+                "name":"Grundlagen der Unternehmensgruendung"
+            },
+            {
+                "name":"Grundlagen der Mediengestaltung"
+            },
+            {
+                "name":"Medienpsychologie"
+            },
+            {
+                "name":"Programmieren, Praktikum MIB"
+            },
+            {
+                "name":"Programmieren, Vorlesung MIB"
+            }
+        ]
+    },
+    {
+        "name": "MIB 2",
+        "studentAmount": "32",
+        "semester": "2",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Mathematik und Simulation, Seminar"
+            },
+            {
+                "name":"Mathematik und Simulation, Vorlesung"
+            },
+            {
+                "name":"Computergrafik"
+            },
+            {
+                "name":"Computergrafik, Praktikum"
+            },
+            {
+                "name":"Grundlagen Interaktiver Systeme MIB"
+            },
+            {
+                "name":"Grundlagen Interaktiver Systeme, Praktikum MIB"
+            },
+            {
+                "name":"User Experience Design, Seminar"
+            },
+            {
+                "name":"User Experience Design, Vorlesung"
+            },
+            {
+                "name":"Medienoekonomie"
+            }
+        ]
+    },
+    {
+        "name": "MIB 4",
+        "studentAmount": "21",
+        "semester": "4",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Grafische Datenverarbeitung"
+            },
+            {
+                "name":"Grafische Datenverarbeitung, uebung"
+            },
+            {
+                "name":"Kommunikationssysteme"
+            },
+            {
+                "name":"Softwaredesign, Seminar"
+            },
+            {
+                "name":"Softwaredesign, Praktikum"
+            },
+            {
+                "name":"Projektmanagement und Soft Skills"
+            }
+        ]
+    },
+    {
+        "name": "MIB 5",
+        "studentAmount": "17",
+        "semester": "5",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Verteilte Anwendungen, Vorlesung"
+            },
+            {
+                "name":"Verteilte Anwendungen, Praktikum"
+            },
+            {
+                "name":"Digitale AV-Technik"
+            },
+            {
+                "name":"Datenverarbeitung in der Medienproduktion"
+            }
+        ]
+    },
+    {
+        "name": "MKB 1",
+        "studentAmount": "40",
+        "semester": "1",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Medienanalyse, Vorlesung"
+            },
+            {
+                "name":"Grundlagen Medienkonzeption, Seminar"
+            },
+            {
+                "name":"Videotechnik OMB + MKB"
+            },
+            {
+                "name":"Medientechnik, Praktikum OMB + MKB"
+            },
+            {
+                "name":"Grundlagen der Betriebswirtschaftslehre"
+            },
+            {
+                "name":"Grundlagen der Unternehmensgruendung"
+            },
+            {
+                "name":"Grundlagen der Mediengestaltung"
+            },
+            {
+                "name":"Medienpsychologie"
+            },
+            {
+                "name":"Entwicklung Interaktiver Anwendungen, Vorlesung"
+            },
+            {
+                "name":"Entwicklung Interaktiver Anwendungen, Praktikum"
+            }
+        ]
+    },
+    {
+        "name": "MKB 2",
+        "studentAmount": "32",
+        "semester": "2",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Entwicklung Interaktiver Anwendungen 2, Praktikum"
+            },
+            {
+                "name":"Entwicklung Interaktiver Anwendungen 2, Vorlesung"
+            },
+            {
+                "name":"Computergrafik und 3D-Modellierung, Vorlesung"
+            },
+            {
+                "name":"Computergrafik und 3D-Modellierung, Praktikum"
+            },
+            {
+                "name":"User Experience Design, Seminar"
+            },
+            {
+                "name":"User Experience Design, Vorlesung"
+            },
+            {
+                "name":"Medienoekonomie"
+            },
+            {
+                "name":"AV-Produktion, Praktikum"
+            },
+            {
+                "name":"AV-Produktion"
+            }
+        ]
+    },
+    {
+        "name": "MKB 4",
+        "studentAmount": "21",
+        "semester": "4",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"E-Learning und Online-Learning"
+            },
+            {
+                "name":"Ideenentwicklung"
+            },
+            {
+                "name":"Medien- und Kommunikationswirtschaft"
+            },
+            {
+                "name":"Textkonzeption"
+            },
+            {
+                "name":"Projektmanagement und Soft Skills"
+            },
+            {
+                "name":"Konzeption"
+            },
+            {
+                "name":"Storytelling"
+            },
+            {
+                "name":"Creative Writing"
+            }
+        ]
+    },
+    {
+        "name": "MKB 5",
+        "studentAmount": "17",
+        "semester": "5",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Operatives Marketing"
+            },
+            {
+                "name":"Interface Design"
+            },
+            {
+                "name":"Strategische Markenfuehrung"
+            }
+        ]
+    },
+    {
+        "name": "OMB 1",
+        "studentAmount": "40",
+        "semester": "1",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Mathematik in Medien und Informatik"
+            },
+            {
+                "name":"Physik in Medien und Informatik"
+            },
+            {
+                "name":"Videotechnik OMB + MKB"
+            },
+            {
+                "name":"Medientechnik, Praktikum OMB + MKB"
+            },
+            {
+                "name":"Audiotechnik"
+            },
+            {
+                "name":"Grundlagen der Betriebswirtschaftslehre"
+            },
+            {
+                "name":"Grundlagen der Unternehmensgruendung"
+            },
+            {
+                "name":"Grundlagen der Mediengestaltung"
+            },
+            {
+                "name":"Medienpsychologie"
+            },
+            {
+                "name":"Programmieren, Praktikum OMB"
+            },
+            {
+                "name":"Programmieren, Vorlesung OMB"
+            }
+        ]
+    },
+    {
+        "name": "OMB 2",
+        "studentAmount": "32",
+        "semester": "2",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"AV-Produktion, Praktikum"
+            },
+            {
+                "name":"AV-Produktion"
+            },
+            {
+                "name":"Geometrische und statistische Modellierung, Vorlesung"
+            },
+            {
+                "name":"Computergrafik und 3D-Modellierung, Praktikum"
+            },
+            {
+                "name":"Computergrafik und 3D-Modellierung, Vorlesung"
+            },
+            {
+                "name":"Grundlagen Interaktiver Systeme OMB"
+            },
+            {
+                "name":"Grundlagen Interaktiver Systeme, Praktikum OMB"
+            },
+            {
+                "name":"User Experience Design, Seminar"
+            },
+            {
+                "name":"User Experience Design, Vorlesung"
+            },
+            {
+                "name":"Medienoekonomie"
+            }
+        ]
+    },
+    {
+        "name": "OMB 4",
+        "studentAmount": "21",
+        "semester": "4",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Webtechnologien"
+            },
+            {
+                "name":"E-Business"
+            },
+            {
+                "name":"Projektmanagement und Soft Skills"
+            },
+            {
+                "name":"Responsive Web Design"
+            }
+        ]
+    },
+    {
+        "name": "OMB 5",
+        "studentAmount": "17",
+        "semester": "5",
+        "mandatoryCourses": 
+        [
+            {
+                "name":"Interface Design"
+            },
+            {
+                "name":"Streaming-Anwendungen"
+            }
+        ]
+    }
+]

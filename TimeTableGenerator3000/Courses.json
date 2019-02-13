@@ -1,0 +1,56 @@
+[
+
+    {          
+        "name": "Mathe 1", 
+        "description": "Mathematik rund um die Medientechnik", 
+        "coursesOfStudy":[
+            {
+            "name":"MIB 1"
+            },
+            {
+            "name":"OMB 1"
+            }
+        ],
+    
+        "equipment":[
+            "Computer", 
+            "Tafel"
+        ]
+    },
+    
+    {        
+        "name": "Mathe 2", 
+        "description": "Mathematik rund um die Medientechnik 2", 
+        "coursesOfStudy":[
+            {
+            "name":"MIB 2"
+            }
+        ],
+    
+        "equipment":[
+            "Computer", 
+            "Tafel"
+        ]
+    },
+    {        
+        "name": "Videotechnik", 
+        "description": "Medientechnik bla bla", 
+        "coursesOfStudy":[
+            {
+            "name":"MIB 1"
+            },
+            {
+            "name":"OMB 1"
+            },
+            {
+            "name":"MKB 1"
+            }
+        ],
+    
+        "equipment":[
+            "Computer", 
+            "Tafel"
+        ]
+    }
+    
+    ]

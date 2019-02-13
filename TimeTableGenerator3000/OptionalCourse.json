@@ -1,0 +1,71 @@
+[
+
+    {          
+        "name": "VFX", 
+        "description": "Effekte und so", 
+        "prof": 
+        {
+                "name": "David Lochmann"
+        },
+        "room": 
+        {
+                "name": "N1.06"
+        },
+        "timeSpanDay":
+            {
+                "dayName": "Donnerstag",
+                "start": "2019-01-01T14:00:00",
+                "end": "2019-01-01T15:30:00"
+            }, 
+        "equipment":[
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {          
+        "name": "2D-Spieleprogrammierung", 
+        "description": "2D Spieleprogrammierung",
+        "prof": 
+        {
+                "name": "Prof. Dell'Oro-Friedl"
+        },
+        "room": 
+        {
+                "name": "L2.07"
+        }, 
+        "timeSpanDay":
+            {
+                "dayName": "Mittwoch",
+                "start": "2019-01-01T14:00:00",
+                "end": "2019-01-01T15:30:00"
+            }, 
+         
+        "equipment":[
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {          
+        "name": "3D-Spieleprogrammierung", 
+        "description": "3D Spieleprogrammierung", 
+        "prof": 
+        {
+                "name": "Prof. Dell'Oro-Friedl"
+        },
+        "room": 
+        {
+                "name": "L2.07"
+        },
+
+        "timeSpanDay":
+            {
+                "dayName": "Mittwoch",
+                "start": "2019-01-01T15:45:00",
+                "end": "2019-01-01T17:15:00"
+            }, 
+        "equipment":[
+            "Tafel",
+            "Computer"
+        ]
+    }
+]

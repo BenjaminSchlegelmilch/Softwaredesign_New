@@ -1,0 +1,823 @@
+[
+    {
+        "name": "Audiotechnik",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            },
+            {
+                "name": "OMB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Absteigend"
+        ]
+    },
+    {
+        "name": "Videotechnik MIB",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Videotechnik OMB + MKB",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 1"
+            },
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Grundlagen der Betriebswirtschaftslehre",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 1"
+            },
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Absteigend"
+        ]
+    },
+    {
+        "name": "Grundlagen der Unternehmensgruendung",
+        "description": "Vorlesung, Gruppenarbeit",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            },
+            {
+                "name": "OMB 1"
+            },
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Grundlagen der Mediengestaltung",
+        "description": "Vorlesung, Seminar",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            },
+            {
+                "name": "OMB 1"
+            },
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Medienpsychologie",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            },
+            {
+                "name": "OMB 1"
+            },
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Medientechnik, Praktikum MIB",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Studio"
+        ]
+    },
+    {
+        "name": "Medientechnik, Praktikum OMB + MKB",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 1"
+            },
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Studio"
+        ]
+    },
+    {
+        "name": "Programmieren, Praktikum MIB",
+        "description": "Einzel- und Gruppenarbeit, woechentliche Aufgaben, Diskussionen in Foren",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "Programmieren, Praktikum OMB",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "Programmieren, Vorlesung MIB",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Programmieren, Vorlesung OMB",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Mathematik in Medien und Informatik",
+        "description": "Vorlesung mit interaktiven Elementen und Gruppenarbeitsphasen",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            },
+            {
+                "name": "OMB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Physik in Medien und Informatik",
+        "description": "Dozenten-Input, Referate/Praesentationen durch Studierende, Coaching in Kleingruppen",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 1"
+            },
+            {
+                "name": "OMB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Entwicklung Interaktiver Anwendungen, Vorlesung",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Entwicklung Interaktiver Anwendungen, Praktikum",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Grundlagen Medienkonzeption, Seminar",
+        "description": "Seminar",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Medienanalyse, Vorlesung",
+        "description": "Seminar",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 1"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Computergrafik",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Computergrafik, Praktikum",
+        "description": "uebungen, Gruppenarbeit",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "Grundlagen Interaktiver Systeme MIB",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Grundlagen Interaktiver Systeme, Praktikum MIB",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "Mathematik und Simulation, Seminar",
+        "description": "Seminar mit studentischen Praesentationen, Gruppen-Coaching",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Mathematik und Simulation, Vorlesung",
+        "description": "Vorlesung mit interaktiven Elementen und Gruppenarbeitsphasen",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Medienoekonomie",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 2"
+            },
+            {
+                "name": "OMB 2"
+            },
+            {
+                "name": "MKB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "User Experience Design, Seminar",
+        "description": "Seminar",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 2"
+            },
+            {
+                "name": "OMB 2"
+            },
+            {
+                "name": "MKB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "User Experience Design, Vorlesung",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 2"
+            },
+            {
+                "name": "OMB 2"
+            },
+            {
+                "name": "MKB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "AV-Produktion, Praktikum",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 2"
+            },
+            {
+                "name": "MKB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Studio"
+        ]
+    },
+    {
+        "name": "AV-Produktion",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 2"
+            },
+            {
+                "name": "MKB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Computergrafik und 3D-Modellierung, Praktikum",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 2"
+            },
+            {
+                "name": "MKB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Computergrafik und 3D-Modellierung, Vorlesung",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 2"
+            },
+            {
+                "name": "MKB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Geometrische und statistische Modellierung, Vorlesung",
+        "description": "Vorlesung mit interaktiven Elementen und Gruppenarbeitsphasen",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Grundlagen Interaktiver Systeme OMB",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Grundlagen Interaktiver Systeme, Praktikum OMB",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "Entwicklung Interaktiver Anwendungen 2, Praktikum",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "Entwicklung Interaktiver Anwendungen 2, Vorlesung",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 2"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Grafische Datenverarbeitung",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Grafische Datenverarbeitung, uebung",
+        "description": "uebung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "Kommunikationssysteme",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Softwaredesign, Praktikum",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "Softwaredesign, Seminar",
+        "description": "Seminar",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "E-Business",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Medien- und Kommunikationswirtschaft",
+        "description": "Vorlesung und uebung",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Responsive Web Design",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Webtechnologien",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Ideenentwicklung",
+        "description": "Seminar, Gruppenarbeit",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Creative Writing",
+        "description": "Seminar",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "E-Learning und Online-Learning",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Konzeption",
+        "description": "Seminar, Gruppenarbeit, Projektarbeit",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Storytelling",
+        "description": "Seminar",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Textkonzeption",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Projektmanagement und Soft Skills",
+        "description": "Seminar",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 4"
+            },
+            {
+                "name": "OMB 4"
+            },
+            {
+                "name": "MKB 4"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Datenverarbeitung in der Medienproduktion",
+        "description": "Seminar",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 5"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Digitale AV-Technik",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 5"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Verteilte Anwendungen, Vorlesung",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 5"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Verteilte Anwendungen, Praktikum",
+        "description": "Praktikum",
+        "coursesOfStudy": [
+            {
+                "name": "MIB 5"
+            }
+        ],
+        "equipment": [
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "Interface Design",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 5"
+            },
+            {
+                "name": "MKB 5"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Streaming-Anwendungen",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "OMB 5"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Operatives Marketing",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 5"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    },
+    {
+        "name": "Strategische Markenfuehrung",
+        "description": "Vorlesung",
+        "coursesOfStudy": [
+            {
+                "name": "MKB 5"
+            }
+        ],
+        "equipment": [
+            "Tafel"
+        ]
+    }
+]

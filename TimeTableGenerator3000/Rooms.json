@@ -1,0 +1,96 @@
+[
+    {
+        "name": "C0.01",
+        "seatAmount": "120",
+        "roomEquipment": [
+            "Tafel",
+            "Whiteboard"
+        ]
+    },
+    {
+        "name": "C0.02",
+        "seatAmount": "120",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel"
+        ]
+    },
+    {
+        "name": "I0.14",
+        "seatAmount": "60",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel"
+        ]
+    },
+    {
+        "name": "I0.16",
+        "seatAmount": "120",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel",
+            "Absteigend"
+        ]
+    },
+    {
+        "name": "I0.17",
+        "seatAmount": "120",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel",
+            "Absteigend"
+        ]
+    },
+    
+    {
+        "name": "L1.03",
+        "seatAmount": "60",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel"
+        ]
+    },
+    {
+        "name": "L1.05",
+        "seatAmount": "30",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel"
+        ]
+    },
+    {
+        "name": "L1.06",
+        "seatAmount": "60",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel"
+        ]
+    },
+    {
+        "name": "L2.05",
+        "seatAmount": "30",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "L2.06",
+        "seatAmount": "60",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel",
+            "Computer"
+        ]
+    },
+    {
+        "name": "N1.06",
+        "seatAmount": "80",
+        "roomEquipment": [
+            "Whiteboard",
+            "Tafel",
+            "Studio"
+        ]
+    }
+]
